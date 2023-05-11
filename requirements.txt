@@ -1,0 +1,4 @@
+python-lorem
+gmpy2
+sympy
+secrets
